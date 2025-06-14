@@ -53,16 +53,16 @@
 ## 🌐 تواصل معي
 
 <p align="center">
-  <a href="https://discord.com/users/PUT_YOUR_DISCORD_ID" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.com/users/a_z21" target="_blank" rel="noopener noreferrer">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-aziz%23????-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aziz" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-aziz-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/aziz" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/aziziazoz21" target="_blank" rel="noopener noreferrer">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@aziz-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://youtube.com/channel/PUT_YOUR_CHANNEL_ID" target="_blank" rel="noopener noreferrer">
+  <a href="https://youtube.com/channel/aziziazoz21" target="_blank" rel="noopener noreferrer">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-Aziz-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
