@@ -1,7 +1,7 @@
 <h1 align="center">مرحباً 👋 أنا aziz (a-z21)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00ff99&width=450&lines=مبرمج+ويب+وتطبيقات;بوتات+ديسكورد+وعاشق+البرمجة;مرحباً+بكم+في+صفحتي!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00ff99&width=450&lines=Web+and+Application+Programmer;Welcome+to+the+page!" alt="Typing SVG"/>
 </p>
 
 ---
